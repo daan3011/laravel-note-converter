@@ -1,0 +1,42 @@
+.title-row-admin {
+    min-height: 15vh;
+}
+
+.title-row-api {
+    padding-bottom: 3%;
+}
+
+.admins-th {
+    width: 20%;
+}
+
+.users-pagination {
+    margin-bottom: 10%;
+}
+
+.admins-pagination {
+    margin-bottom: 5%;
+}
+
+.users-th {
+    width: 16%;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+}
+
+.link:hover {
+    text-decoration: none;
+    color: white;
+}
+
+.link:visited {
+    text-decoration: none;
+    color: white;
+}
+
+.pagination {
+    justify-content: center;
+}

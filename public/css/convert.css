@@ -1,0 +1,36 @@
+
+.title-row {
+    min-height: 20vh;
+}
+
+.introduction-row {
+    padding-top: 3%;
+}
+
+::-webkit-file-upload-button {
+    color: white;
+    background: #1f1f1f;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    /*box-shadow: 1px 0 1px 1px #000000;*/
+    outline: none;
+}
+
+::-webkit-file-upload-button:hover {
+    background: #1f1f1f;
+}
+
+.input-shadow {
+    border-radius: 10px;
+    box-shadow: 2px 2px 3px black;
+    outline: none;
+
+}
+
+.submit {
+    padding: 2%;
+    margin-top: 5%;
+    background-color: #1f1f1f;
+    color: white;
+}

@@ -1,0 +1,36 @@
+.title-row {
+    min-height: 20vh;
+}
+
+.title-row-edit {
+    min-height: 10vh; 
+}
+
+.note-row {
+    min-height: 50vh;
+}
+
+.note-col {
+    background-color: #1f1f1f;
+    border-radius: 25px;
+    padding: 2%;
+}
+
+
+.note-title {
+    color: #d1d1d1;
+}
+
+.note-body {
+    color: #d1d1d1;;
+}
+
+.edit-label {
+    color: white;
+    margin-bottom: 1%;
+    font-size: 20px;
+}
+
+.submit {
+    color: black;
+}
