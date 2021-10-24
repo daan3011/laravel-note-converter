@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img style="width:500px" src="https://i.imgur.com/R0WCavR.png" alt="PHP Google Vision" />
+  <img style="width:500px" src="https://i.imgur.com/ZUBfwUP.png" alt="PHP Google Vision" />
 
 <hr/>
 
