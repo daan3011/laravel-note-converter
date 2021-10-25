@@ -16,7 +16,7 @@ Check out his project here: [php-google-vision](https://github.com/ahmadmayahi/p
 
 
 Laravel note converter is my first Laravel project.  
-I got the idea after one of my sisters complained she had to type over al her handwritten notes into the computer.
+I got the idea after one of my sisters complained she had to type over all of her handwritten notes into the computer.
 Laravel note converter utilizes the OCR (Optical Character Recognition) capabilities of the Google Vision Api to recognize text in images and convert this text to
 text that can be copy pasted into any document.
 
