@@ -10,7 +10,7 @@
 
 **Requires PHP 8.0+**
 
-Thanks to [@ahmadmayahi](https://github.com/ahmadmayahi) for building this fun to work with wrapper for the Google Vision Api  
+Thanks [@ahmadmayahi](https://github.com/ahmadmayahi) for building this fun to work with wrapper for the Google Vision Api  
 Check out his project here: [php-google-vision](https://github.com/ahmadmayahi/php-google-vision)
 
 
